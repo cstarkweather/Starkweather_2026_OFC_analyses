@@ -2,7 +2,7 @@
 
 Dataset DOI: [10.5061/dryad.kh18932k7](10.5061/dryad.kh18932k7)
 
-Code reproducing main figures. All electrophysiological and behavioral data is contained in subject_data.mat, available at Dryad (https://doi.org/10.5061/dryad.kh18932k7) following completion of the peer review process.
+Code reproducing main figures. All electrophysiological and behavioral data is contained in subject_data.mat, available at Dryad (https://doi.org/10.5061/dryad.kh18932k7) pending completion of peer review process prior to public release.
 
 There are example outputs of the decoding and posterior generating scripts as these take a while to run, see "posteriors_LOO" folder for these examples.
 
